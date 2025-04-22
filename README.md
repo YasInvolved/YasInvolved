@@ -10,8 +10,8 @@ deriving genres. My favourites are metalcore and nu-metal. The bands or artists 
 - Java
 - C#
 - Dart
-- GLSL
-- HLSL
+- GLSL (learning, improving)
+- HLSL (learning, improving)
 
 ### Web 🌐
 - HTML
