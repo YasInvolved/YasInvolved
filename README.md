@@ -24,8 +24,6 @@ deriving genres. My favourites are metalcore and nu-metal. The bands or artists 
 
 ### Graphics 🧊
 - Vulkan
-- Direct3D 12
-- Direct3D 11
 - OpenGL
 
 ### Tools and systems 🔧
