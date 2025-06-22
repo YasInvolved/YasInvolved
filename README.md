@@ -4,6 +4,7 @@ My name is Jakub, currently I'm 18 years old and I'm junior programmer at DevSH 
 Apart from that I also love music and my spotify listening time explains it all (I had 124'519 minutes listened on spotify). My taste in music is mainly oriented around rock
 deriving genres. My favourites are metalcore and nu-metal. The bands or artists I like the best are: Bad Omens, Linkin Park, The Ghost Inside, Korn, Bring Me The Horizon, I Prevail, Slipknot and surprisingly Twenty One Pilots.
 
+In terms of sports I do in my free time, as my profile picture suggests, I'm an active airsoft player with 4 year experience gained mostly from participating in camps for youth.
 ## Skills ⚙️
 ### Languages 💻
 - C/C++
