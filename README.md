@@ -17,7 +17,7 @@ My name is Jakub, currently I'm 19 years old. I'm currently studying applied mat
 - NextJS
 - Flutter
 
-### Graphics (currently exploring and learning) 🧊
+### Graphics (currently exploring and polishing my skills) 🧊
 - Vulkan
 - Direct3D 12
 
