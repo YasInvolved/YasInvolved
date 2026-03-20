@@ -10,7 +10,7 @@ My name is Jakub, currently I'm 19 years old. I'm currently studying applied mat
 - C#*
 - Dart*
 
-* - I haven't used them for a long time
+\* \- I haven't used them for a long time
 
 ### Web Stuff 🌐
 - HTML
